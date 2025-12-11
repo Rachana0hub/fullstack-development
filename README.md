@@ -1,7 +1,8 @@
 This repository contains material for the Full Stack Development section.
+here Javascript work as backend
+Files Included here
+- architecture diagram.png
+This demonstrates:
+the understanding of html,css and js.
+Understanding of frontend, backend and database.
 
-Files Included are:
-- architecture diagram (Frontend → Backend → Database diagram)
-- login.html (Login form)
-- login.js (login logic)
-This demonstrates how frontend, backend, and database interact through a login use case.
